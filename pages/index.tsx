@@ -12,11 +12,11 @@ const Home: NextPage = () => {
     <div>
       <Navigation />
       <Masthead />
-      <IconsGrid />
-      <ImageShowcases />
+      {/* <IconsGrid /> */}
       <Testimonials />
+      <ImageShowcases />
       <CallToAction />
-      <Footer />
+      {/* <Footer /> */}
     </div>
   );
 };

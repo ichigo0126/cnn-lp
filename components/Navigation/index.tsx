@@ -14,10 +14,7 @@ function index() {
     >
       <div className="container">
         <a className={classnames(styles["navbar-brand"])} href="#!">
-          Start Bootstrap
-        </a>
-        <a className="btn btn-primary" href="#signup">
-          Sign Up
+          CNN
         </a>
       </div>
     </nav>
