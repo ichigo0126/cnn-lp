@@ -113,6 +113,12 @@ function index() {
           content="翻訳済み字幕データを動画の再生時間と同期して表示する拡張機能です。
           Udemyの動画を再生する際にVideo要素を監視して、再生時間の変更に応じて適切な日本語字幕をレンダリングすることで実現しています。"
         />
+        <ImageShowcase
+          isImageRight={false}
+          imagePath="/img/Profile.png"
+          title="チームメンバーのプロフィール"
+          content="チームメンバーの自己紹介ページです。"
+        />
       </div>
     </section>
   );
